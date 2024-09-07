@@ -1,4 +1,4 @@
-Experiment 2 Numerical Python (Numpy)
+### Experiment 2 Numerical Python (Numpy)
 
 Instruction: Write a Python script/code in the Jupyter Notebook to do the given problems. You may submit your Jupyter notebook in the dedicated submission bin
 
